@@ -1,6 +1,6 @@
 
 import mongoose from "mongoose";
-import { CollectionNames } from "../utils/utilityVariables.js";
+import { CollectionNames } from "../utils/utilityVariable.js";
 
 const { Schema, model } = mongoose;
 

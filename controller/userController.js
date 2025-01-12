@@ -1,4 +1,4 @@
-import UserModel from "../models/userModel.js";
+import UserModel from "../models/userModels.js";
 import ErrorHandler from "../utils/errorHandler.js";
 import generateToken from "../utils/generateToken.js";
 import { loginValidation, registerValidatin } from "../utils/joiValidation.js";

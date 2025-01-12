@@ -1,5 +1,5 @@
 import { model, Schema } from "mongoose";
-import { CollectionNames } from "../utils/utilityVariables.js";
+import { CollectionNames } from "../utils/utilityVariable.js";
 
 const subtodosSchema = new Schema(
   {
